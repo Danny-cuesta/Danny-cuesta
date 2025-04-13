@@ -1,5 +1,5 @@
 ## Hello world 👋
-## This is Danny!!! 🔭
+## This is Danny 🔭
 
 <!--
 **Danny-cuesta/Danny-cuesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
