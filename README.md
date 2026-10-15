@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 Currently learning ...
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=cpp,linux,vscode,idea,python,java,arduino,ros,git,bash,matlab,c&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=cpp,linux,vscode,idea,python,java,arduino,ros,bash,matlab,c&theme=light"/>
 </p>
