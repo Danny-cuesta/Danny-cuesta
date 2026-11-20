@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 **Currently learning ...**
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,arduino,ros,bash,assembly&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,arduino,ros,bash&theme=light"/>
 </p>
 
 **Currently working on ...**
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=linux,vscode,idea&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,idea&theme=light"/>
 </p>
