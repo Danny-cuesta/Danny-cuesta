@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 **Currently working on ...**
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,idea,github&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,idea,github,docker&theme=light"/>
 </p>
