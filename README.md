@@ -2,7 +2,7 @@
 ## This is Danny 🔭
 
 <!--
-**Danny-cuesta/Danny-cuesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Danny-cuesta/Danny-cuesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 **Currently learning ...**
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,arduino,ros,bash&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,arduino,ros,bash,assembler&theme=light"/>
 </p>
 
 **Currently working on ...**
