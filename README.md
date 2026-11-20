@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Currently learning ...
+**Currently learning ...**
 <p align=center>
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,arduino,ros,bash&theme=light"/>
 </p>
 
-Currently working on ...
+**Currently working on ...**
 <p align=center>
   <img src="https://skillicons.dev/icons?i=linux,vscode,idea&theme=light"/>
 </p>
