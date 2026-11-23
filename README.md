@@ -1,5 +1,4 @@
-# Hello world 👋
-## This is Danny 🔭
+# Hello world, this is Danny 🔭
 
 <!--
 **Danny-cuesta/Danny-cuesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -15,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Currently learning ...**
+### Currently learning ...
 <p align=center>
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,arduino,ros,bash,cmake&theme=light"/>
 </p>
 
-**Currently working on ...**
+### Currently working on ...
 <p align=center>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,idea,docker,github&theme=light"/>
 </p>
